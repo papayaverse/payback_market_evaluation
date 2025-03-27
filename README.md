@@ -90,3 +90,41 @@ It simulates **100 users and 2 types of platforms** (Advertisers, Retailers), ru
 
 ---
 
+## 4. Interpretation
+
+The results of this simulation suggest a powerful insight:
+
+- Papaya’s contextual and union-based data market outperforms the traditional IPDM (Individual Privacy Decision Making) model in both efficiency and fairness.
+
+### IPDM Fails to Scale in a Privacy-Conscious World
+
+- In the traditional IPDM model, users are presented with a binary choice: either accept invasive data practices or opt out entirely. 
+- As privacy awareness grows — through tools like GPC or automated rejection (like Agent Papaya) — more users will reject all data requests. 
+
+This leads to a broken market:
+- Users rarely participate, because there's no way to selectively share data in a controlled manner.
+- Platforms overpay for limited data, or can’t buy any data at all.
+- Total social welfare is low, despite high per-transaction prices.
+
+Our simulation reflects this breakdown. While users in the IPDM market receive modest earnings, platform utility is dramatically reduced. The market is rigid and inefficient.
+
+Papaya: Flexible, Fair, and High-Welfare
+In contrast, Papaya introduces two key innovations:
+
+Contextual Integrity: Users express nuanced preferences over data-sharing (e.g., “anonymized data to retailers for market research”).
+
+Data Union Effects: When many users share data under the same conditions, the value of that data increases and users are compensated accordingly.
+
+This design creates a market where:
+
+Users can share data they’re comfortable with and still get paid.
+
+Platforms get targeted, relevant data without overpaying.
+
+Even after accounting for a platform commission, total social welfare is higher.
+
+Most strikingly, our simulation shows that platform utility is significantly higher in the Papaya market, because they can buy data at a price that reflects its actual sensitivity and utility. Meanwhile, user earnings remain stable due to increased participation.
+
+A Path Forward
+If we continue down the IPDM path — where users must evaluate every request individually and default to “Reject All” — everyone loses. But with a system like Papaya, privacy becomes programmable, participation becomes scalable, and data markets become truly ethical and efficient.
+
